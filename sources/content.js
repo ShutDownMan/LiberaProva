@@ -53,8 +53,7 @@ function populateTable() {
 			if (tdListElem[2].children[0].innerHTML !== "Bloqueada") {
 
 				/// set class to center text within
-				statusTd.setAttribute("class", "text-center")
-				statusTd.setAttribute("class", "prova-href")
+				statusTd.setAttribute("class", "text-center prova-href")
 
 				/// creat a anchor tag as button
 				aTag = document.createElement("a")
