@@ -15,13 +15,14 @@ fetch(url)
 
 	});
 
+
 function populateTable() {
 	/// gets table element on page (hopefully it's loaded)
 	tableElem = document.getElementById("table-disciplinas-reposicao")
 
 	/// for each row in table
 	for (var i = 0; i < tableElem.rows.length; i++) {
-		/// store's current row element
+		/// stores current row element
 		currentRow = tableElem.rows[i]
 
 		/// if it has linha-disciplina as it's class
@@ -32,11 +33,15 @@ function populateTable() {
 			/// get disciplina information from column
 			inputListElem = currentRow.getElementsByTagName("input")
 
-			/// correcting for some bulshit the site does
+			/// correcting for some strange behaviour the site does
 			if (tdListElem[2].children[0].innerHTML === "Liberada") {
 				tdIndex = tdListElem.length - 1
 			} else {
 				tdIndex = tdListElem.length - 2
+			}
+
+			if(tdListElem[3] && !tdListElem[3].getAttribute("class").includes("none")) {
+				return
 			}
 
 			/// get status column of row
@@ -49,6 +54,7 @@ function populateTable() {
 
 				/// set class to center text within
 				statusTd.setAttribute("class", "text-center")
+				statusTd.setAttribute("class", "prova-href")
 
 				/// creat a anchor tag as button
 				aTag = document.createElement("a")
@@ -66,6 +72,14 @@ function populateTable() {
 		}
 	}
 }
+
+$(document).on("change", ".tipo", function () {
+	if ($(this).val() != 2) {
+		$(".prova-href").removeClass("d-none");
+	} else {
+		$(".prova-href").addClass("d-none");
+	}
+});
 
 /// gets Curso name by it's id
 function getCursoNomeByCursoId(idCurso) {
@@ -95,14 +109,17 @@ function getIndexDiscByDisciplinaId(idCurso, idDisciplina) {
 	return undefined
 }
 
+/// release the exam given the idDisciplina
 function liberarProva(idDisciplina) {
 	idUsuario = IdUsuario.value
 	idTrilha = IdTrilha.value
 	idCurso = IdCurso.value
 
+	/// get needed indexing values
 	cursoNome = getCursoNomeByCursoId(idCurso)
 	indexDisciplina = getIndexDiscByDisciplinaId(idCurso, idDisciplina)
 
+	/// if key is there
 	if (CURSOS[cursoNome] !== undefined) {
 
 		for (var i = 0; i < CURSOS[cursoNome].Disciplinas[indexDisciplina].Unidades.length; i++) {
@@ -118,6 +135,8 @@ function liberarProva(idDisciplina) {
 				}
 			}
 		}
+	} else {
+		alert("Erro!\nCurso não disponível para esta ação");
 	}
 }
 
@@ -155,7 +174,7 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		url: url,
 		success: function(resposta) {
 			console.log(resposta)
-			window.location.reload(false);
+			setTimeout(() => {window.location.reload(false);}, 1000)
 		},
 		fail: function(argument) {
 			console.log(resposta)
