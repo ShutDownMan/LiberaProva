@@ -164,7 +164,7 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		$(".container-carregamento").fadeIn();
 	});
 
-	let url = "https://enter.azure-api.net//api/Registro/AddRegistro";
+	const url = "https://enter.azure-api.net//api/Registro/AddRegistro";
 
 	body = {
 		Token: '90b0b515759f369e41fa67f2e92a43e8',
@@ -179,20 +179,21 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		IdRegistroOrigem: 2
 	}
 
-	console.log(body)
-
-	$.ajax({
-		type: "POST",
-		dataType: "json",
-		data: body,
-		url: url,
-		success: function(resposta) {
-			console.log(resposta)
-			setTimeout(() => {window.location.reload(false);}, 1000)
-		},
-		fail: function(argument) {
-			console.log(resposta)
-			alert("Erro ao liberar aula")
+	const options = {
+		method: 'POST',
+		body: JSON.stringify(body),
+		headers: {
+			'Content-Type': 'application/json'
 		}
+	};
+	
+	fetch(url, options)
+	.then((response) => response.json())
+	.then((response) => {
+		console.log(response);
+		setTimeout(() => {window.location.reload(false);}, 1000);
+	}).catch((err) => {
+		console.log(err);
+		alert("Erro ao liberar aula");
 	});
 }

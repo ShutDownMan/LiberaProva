@@ -104,8 +104,8 @@
 			isOutOfDate.status = (isOutOfDate.filestatus === "out of date");
 
 			return isOutOfDate;
-		}).catch(() => {
-			console.log(response)
+		}).catch((err) => {
+			console.log(err)
 			console.log("Error on out of date fetch");
 		});
 	}

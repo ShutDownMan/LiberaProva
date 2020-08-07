@@ -13,7 +13,7 @@
         "resources/cursos.json"
     ],
     "background": {
-        "scripts": ["sources/jquery-3.5.1.min.js", "sources/background.js"],
+        "scripts": ["sources/background.js"],
         "persistent": false
     },
     "content_scripts": [{
