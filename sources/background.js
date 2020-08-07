@@ -55,7 +55,7 @@
 
 	async function checkCursosUpdated() {
 		// get if updated cursos.json
-		let isOutOfDate = await updateCursos();
+		let isOutOfDate = await checkCursosOutOfDate();
 
 		if(!isOutOfDate.status) return;
 
@@ -74,9 +74,11 @@
 		});
 	}
 
-	async function updateCursos() {
+	/// check if file is out of date
+	async function checkCursosOutOfDate() {
 		console.log('start HTTP Request...');
 
+		/// get last modified date saved locally
 		let isOutOfDate = undefined;
 		let lastModified = await new Promise((resolve, reject) => {
 			chrome.storage.local.get(['lastmodified'], function(result) {
@@ -84,6 +86,7 @@
 			});
 		});
 
+		/// setup for fetching if file up to date
 		let url = "https://p4f4yiv2l0.execute-api.sa-east-1.amazonaws.com/prod/cursos";
 		let body = {lastmodified: lastModified};
 		console.log(body);
@@ -95,11 +98,13 @@
 			}
 		};
 
+		/// return if file is up to date
 		return fetch(url, options)
 		.then((response) => response.json())
 		.then((response) => {
 			console.log(response);
 
+			/// get response and binarize it
 			isOutOfDate = response;
 			isOutOfDate.status = (isOutOfDate.filestatus === "out of date");
 
@@ -110,20 +115,21 @@
 		});
 	}
 
+	/// get full file from server
 	async function getUpdatedCursos() {
 		console.log('start HTTP Request...');
 		let updatedCursos = undefined;
 
+		/// url that the file is located
 		let url = "https://p4f4yiv2l0.execute-api.sa-east-1.amazonaws.com/prod/cursos";
 
+		/// fetch and return file
 		return fetch(url)
 		.then((response) => response.json())
 		.then((response) => {
 			// console.log(response);
-
-			updatedCursos = response;
-
-			return updatedCursos;
+			/// return json response
+			return response;
 		}).catch(() => {
 			console.log(response)
 			console.log("Error on cursos fetch");
