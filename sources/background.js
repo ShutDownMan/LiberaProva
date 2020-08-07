@@ -47,12 +47,6 @@
 		chrome.alarms.create('watchdog', { periodInMinutes: 5 });
 	}
 
-	// fetch data and save to local storage
-	async function startRequest() {
-		const data = await fetchRepositories();
-		saveToLocalStorage(data);
-	}
-
 	async function checkCursosUpdated() {
 		// get if updated cursos.json
 		let isOutOfDate = await checkCursosOutOfDate();
