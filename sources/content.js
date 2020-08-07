@@ -3,18 +3,33 @@ console.log("Liberar Prova Extension!")
 /// dictionary with the courses data
 var CURSOS = {}
 
-/// fetches all course data attached to this extension
-const url = chrome.runtime.getURL('/resources/cursos.json');
-fetch(url)
-	.then((response) => response.json())
-	.then((json) => {
-		CURSOS = json
+// f new cursos.json fetch and save on local storage
+async function initializeCursos() {
 
-		/// wait a second to populate table
-		setTimeout(populateTable, 1000)
+	/// wait a second to populate table
+	setTimeout(populateTable, 1000)
 
+	/// get local (updated) copy of cursos.json
+	CURSOS = await new Promise((resolve, reject) => {
+		chrome.storage.local.get(['cursos'], function(result) {
+			resolve(result.cursos);
+		});
 	});
 
+	// console.log(CURSOS);
+
+	/// if it is present return
+	if(CURSOS !== undefined) return;
+
+	/// if not fetches cursos.json attached to this extension
+	const url = chrome.runtime.getURL('/resources/cursos.json');
+	CURSOS = await fetch(url)
+		.then((response) => response.json());
+
+	console.log(CURSOS);
+
+}
+initializeCursos();
 
 function populateTable() {
 	/// gets table element on page (hopefully it's loaded)
@@ -149,7 +164,7 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		$(".container-carregamento").fadeIn();
 	});
 
-	var url = "https://enter.azure-api.net//api/Registro/AddRegistro";
+	let url = "https://enter.azure-api.net//api/Registro/AddRegistro";
 
 	body = {
 		Token: '90b0b515759f369e41fa67f2e92a43e8',
