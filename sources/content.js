@@ -3,6 +3,10 @@ console.log("Liberar Prova Extension!")
 /// dictionary with the courses data
 var CURSOS = {}
 
+// TODO: Get if updated cursos.json
+
+// TODO: If new cursos.json fetch and save on local storage
+
 /// fetches all course data attached to this extension
 const url = chrome.runtime.getURL('/resources/cursos.json');
 fetch(url)
