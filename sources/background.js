@@ -105,7 +105,7 @@
 			return isOutOfDate;
 		}).catch((err) => {
 			console.log(err)
-			console.log("Error on out of date fetch");
+			console.log("Error on checkCursosOutOfDate fetch");
 		});
 	}
 
@@ -121,11 +121,10 @@
 		return fetch(url)
 		.then((response) => response.json())
 		.then((response) => {
-			// console.log(response);
 			/// return json response
 			return response;
 		}).catch(() => {
-			console.log(response)
+			console.log(response);
 			console.log("Error on cursos fetch");
 		});
 	}

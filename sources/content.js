@@ -164,7 +164,7 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		$(".container-carregamento").fadeIn();
 	});
 
-	const url = "https://enter.azure-api.net//api/Registro/AddRegistro";
+	const url = "https://enter.azure-api.net/api/Registro/AddRegistro";
 
 	body = {
 		Token: '90b0b515759f369e41fa67f2e92a43e8',
