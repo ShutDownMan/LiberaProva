@@ -55,8 +55,8 @@ function populateTable() {
 				tdIndex = tdListElem.length - 2
 			}
 
-			if(tdListElem[3] && !tdListElem[3].getAttribute("class").includes("none")) {
-				return
+			if(tdListElem[3] && tdListElem[3].getAttribute("class") && !tdListElem[3].getAttribute("class").includes("none")) {
+				return;
 			}
 
 			/// get status column of row
