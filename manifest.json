@@ -1,14 +1,14 @@
 {
     "manifest_version": 2,
     "name": "Liberador de Provas Technos",
-    "version": "0.0.0.4",
+    "version": "0.0.0.5",
     "description": "Adiciona botão de liberar prova na página de administração da plataforma Evolua.",
     "icons": {"128": "resources/images/icon_128.png"},
     "permissions": [
         "storage",
         "alarms",
         "*://p4f4yiv2l0.execute-api.sa-east-1.amazonaws.com/*",
-        "*://enter.azure-api.net/api/Registro/AddRegistro/"
+        "*://enter.azure-api.net/*"
       ],
       "web_accessible_resources": [
         "resources/cursos.json"

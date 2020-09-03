@@ -1,0 +1,2427 @@
+{
+    "Adobe After Effects": {
+        "Disciplinas": [
+            {
+                "Id": 628,
+                "NomeDisciplina": "Reforçando conceitos - Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 627,
+                "NomeDisciplina": "Reforçando conceitos – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 626,
+                "NomeDisciplina": "Motion Graphics e Expressões – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 625,
+                "NomeDisciplina": "Motion Graphics e Expressões – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 624,
+                "NomeDisciplina": "Efeitos e dicas – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 623,
+                "NomeDisciplina": "Efeitos e dicas – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 622,
+                "NomeDisciplina": "Criando o efeito Vintage",
+                "Unidades": []
+            },
+            {
+                "Id": 621,
+                "NomeDisciplina": "Reforçando conceitos – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 620,
+                "NomeDisciplina": "Reforçando conceitos – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 619,
+                "NomeDisciplina": "Trabalhando com efeitos e Camada 3D",
+                "Unidades": []
+            },
+            {
+                "Id": 618,
+                "NomeDisciplina": "Realizando tratamento de cores e animações em textos",
+                "Unidades": []
+            },
+            {
+                "Id": 617,
+                "NomeDisciplina": "Inserindo máscaras e renderizando o trabalho",
+                "Unidades": []
+            },
+            {
+                "Id": 616,
+                "NomeDisciplina": "Trabalhando com textos",
+                "Unidades": []
+            },
+            {
+                "Id": 615,
+                "NomeDisciplina": "Conceitos sobre animação – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 614,
+                "NomeDisciplina": "Conceitos sobre animação – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 629,
+                "NomeDisciplina": "Introdução ao Adobe After Effects",
+                "Unidades": []
+            }
+        ],
+        "Id": 94
+    },
+    "Adobe Illustrator": {
+        "Disciplinas": [
+            {
+                "Id": 597,
+                "NomeDisciplina": "Revisão – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 596,
+                "NomeDisciplina": "Criando uma embalagem",
+                "Unidades": []
+            },
+            {
+                "Id": 595,
+                "NomeDisciplina": "Vetorizando imagens",
+                "Unidades": []
+            },
+            {
+                "Id": 594,
+                "NomeDisciplina": "Trabalhando com gráficos e 3D",
+                "Unidades": []
+            },
+            {
+                "Id": 593,
+                "NomeDisciplina": "Revisão – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 592,
+                "NomeDisciplina": "Criando um cartão de visita",
+                "Unidades": []
+            },
+            {
+                "Id": 591,
+                "NomeDisciplina": "Desenvolvendo um anúncio",
+                "Unidades": []
+            },
+            {
+                "Id": 590,
+                "NomeDisciplina": "Revisão – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 589,
+                "NomeDisciplina": "Estilizando formas com pincéis e ferramentas",
+                "Unidades": []
+            },
+            {
+                "Id": 588,
+                "NomeDisciplina": "Construindo um cartaz",
+                "Unidades": []
+            },
+            {
+                "Id": 587,
+                "NomeDisciplina": "Desenvolvendo uma divulgação",
+                "Unidades": []
+            },
+            {
+                "Id": 586,
+                "NomeDisciplina": "Revisão – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 585,
+                "NomeDisciplina": "Criando logomarcas",
+                "Unidades": []
+            },
+            {
+                "Id": 584,
+                "NomeDisciplina": "Desenhando formas irregulares",
+                "Unidades": []
+            },
+            {
+                "Id": 583,
+                "NomeDisciplina": "Desenvolvendo desenhos com formas",
+                "Unidades": []
+            },
+            {
+                "Id": 582,
+                "NomeDisciplina": "Introdução ao Illustrator",
+                "Unidades": []
+            }
+        ],
+        "Id": 88
+    },
+    "Adobe Photoshop - Avançado": {
+        "Disciplinas": [
+            {
+                "Id": 581,
+                "NomeDisciplina": "Revisão Final",
+                "Unidades": []
+            },
+            {
+                "Id": 580,
+                "NomeDisciplina": "Trabalhando com 3D",
+                "Unidades": []
+            },
+            {
+                "Id": 579,
+                "NomeDisciplina": "Efeitos de texto 3D",
+                "Unidades": []
+            },
+            {
+                "Id": 578,
+                "NomeDisciplina": "Aplicando Ações em várias imagens",
+                "Unidades": []
+            },
+            {
+                "Id": 577,
+                "NomeDisciplina": "Material para a WEB",
+                "Unidades": []
+            },
+            {
+                "Id": 576,
+                "NomeDisciplina": "Revisão Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 575,
+                "NomeDisciplina": "Criando rótulo e personalizando embalagens",
+                "Unidades": []
+            },
+            {
+                "Id": 574,
+                "NomeDisciplina": "Desenvolvendo uma nova fachada",
+                "Unidades": []
+            },
+            {
+                "Id": 573,
+                "NomeDisciplina": "Revisão – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 572,
+                "NomeDisciplina": "Construindo capa de DVD Blu-ray e um cartaz",
+                "Unidades": []
+            },
+            {
+                "Id": 571,
+                "NomeDisciplina": "Criando fôlder e cartaz",
+                "Unidades": []
+            },
+            {
+                "Id": 570,
+                "NomeDisciplina": "Revisão – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 569,
+                "NomeDisciplina": "Desenvolvendo o efeito HDR e criando um banner",
+                "Unidades": []
+            },
+            {
+                "Id": 568,
+                "NomeDisciplina": "Tratando fotos",
+                "Unidades": []
+            },
+            {
+                "Id": 567,
+                "NomeDisciplina": "Identidade Corporativa – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 566,
+                "NomeDisciplina": "Identidade Corporativa – Parte I",
+                "Unidades": []
+            }
+        ],
+        "Id": 85
+    },
+    "Adobe Photoshop – Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 565,
+                "NomeDisciplina": "Revisão Final",
+                "Unidades": []
+            },
+            {
+                "Id": 564,
+                "NomeDisciplina": "Criando efeitos em imagens",
+                "Unidades": []
+            },
+            {
+                "Id": 563,
+                "NomeDisciplina": "Transformando imagens em desenho",
+                "Unidades": []
+            },
+            {
+                "Id": 562,
+                "NomeDisciplina": "Maquiagem Digital",
+                "Unidades": []
+            },
+            {
+                "Id": 561,
+                "NomeDisciplina": "Revisão - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 560,
+                "NomeDisciplina": "Revisão – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 559,
+                "NomeDisciplina": "Construindo uma arte de divulgação",
+                "Unidades": []
+            },
+            {
+                "Id": 558,
+                "NomeDisciplina": "Trabalhando com Textos",
+                "Unidades": []
+            },
+            {
+                "Id": 557,
+                "NomeDisciplina": "Criando a base de um anúncio",
+                "Unidades": []
+            },
+            {
+                "Id": 556,
+                "NomeDisciplina": "Revisão - Testando seus conhecimentos",
+                "Unidades": []
+            },
+            {
+                "Id": 555,
+                "NomeDisciplina": "Trabalhando com Filtros",
+                "Unidades": []
+            },
+            {
+                "Id": 554,
+                "NomeDisciplina": "Criando Montagens – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 553,
+                "NomeDisciplina": "Criando Montagens – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 552,
+                "NomeDisciplina": "Restaurando fotografias",
+                "Unidades": []
+            },
+            {
+                "Id": 551,
+                "NomeDisciplina": "Alterando as cores de uma imagem",
+                "Unidades": []
+            },
+            {
+                "Id": 550,
+                "NomeDisciplina": "Introdução ao Adobe Photoshop",
+                "Unidades": []
+            }
+        ],
+        "Id": 83
+    },
+    "Adobe Premiere": {
+        "Disciplinas": [
+            {
+                "Id": 613,
+                "NomeDisciplina": "Reforçando conceitos - Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 612,
+                "NomeDisciplina": "Reforçando conceitos - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 611,
+                "NomeDisciplina": "Reforçando conceitos - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 610,
+                "NomeDisciplina": "Trabalhando com Mixer da faixa de áudio e legendas ocultas",
+                "Unidades": []
+            },
+            {
+                "Id": 609,
+                "NomeDisciplina": "Trabalhando com predefinições de efeito",
+                "Unidades": []
+            },
+            {
+                "Id": 608,
+                "NomeDisciplina": "Explorando mais recursos do Premiere",
+                "Unidades": []
+            },
+            {
+                "Id": 607,
+                "NomeDisciplina": "Trabalhando com Chroma Key e Multicam",
+                "Unidades": []
+            },
+            {
+                "Id": 606,
+                "NomeDisciplina": "Detalhes que fazem a diferença na finalização de projetos - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 605,
+                "NomeDisciplina": "Criando animações com camadas",
+                "Unidades": []
+            },
+            {
+                "Id": 604,
+                "NomeDisciplina": "Exibindo vários vídeos na mesma cena",
+                "Unidades": []
+            },
+            {
+                "Id": 603,
+                "NomeDisciplina": "Primeiros passos para a edição de áudio no Premiere",
+                "Unidades": []
+            },
+            {
+                "Id": 602,
+                "NomeDisciplina": "Detalhes que fazem a diferença na finalização de projetos - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 601,
+                "NomeDisciplina": "Integrando o Premiere com outros softwares para criar efeitos interessantes",
+                "Unidades": []
+            },
+            {
+                "Id": 600,
+                "NomeDisciplina": "Conceitos básicos para o desenvolvimento de projetos.",
+                "Unidades": []
+            },
+            {
+                "Id": 599,
+                "NomeDisciplina": "Configurações e conceitos necessários para iniciar um projeto",
+                "Unidades": []
+            },
+            {
+                "Id": 598,
+                "NomeDisciplina": "Introdução ao Adobe Premiere",
+                "Unidades": []
+            }
+        ],
+        "Id": 87
+    },
+    "Assistente Contábil": {
+        "Disciplinas": [
+            {
+                "Id": 454,
+                "NomeDisciplina": "Balanço Patrimonial – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 453,
+                "NomeDisciplina": "Balanço Patrimonial – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 452,
+                "NomeDisciplina": "Lucro Arbitrado",
+                "Unidades": []
+            },
+            {
+                "Id": 451,
+                "NomeDisciplina": "Lucro Real",
+                "Unidades": []
+            },
+            {
+                "Id": 450,
+                "NomeDisciplina": "Lucro Presumido",
+                "Unidades": []
+            },
+            {
+                "Id": 449,
+                "NomeDisciplina": "Simples Nacional Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 448,
+                "NomeDisciplina": "Simples Nacional Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 447,
+                "NomeDisciplina": "Registro e Apuração ICMS",
+                "Unidades": []
+            },
+            {
+                "Id": 446,
+                "NomeDisciplina": "Escrituração Contábil – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 445,
+                "NomeDisciplina": "Escrituração Contábil – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 444,
+                "NomeDisciplina": "Operações fiscais – parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 443,
+                "NomeDisciplina": "Operações fiscais – parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 442,
+                "NomeDisciplina": "Tributos e Regimes Tributários",
+                "Unidades": []
+            },
+            {
+                "Id": 441,
+                "NomeDisciplina": "Constituição societária",
+                "Unidades": []
+            },
+            {
+                "Id": 440,
+                "NomeDisciplina": "Contrato Social e Alterações",
+                "Unidades": []
+            },
+            {
+                "Id": 439,
+                "NomeDisciplina": "Atividade Contábil – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 438,
+                "NomeDisciplina": "Atividade Contábil – Parte I",
+                "Unidades": []
+            }
+        ],
+        "Id": 31
+    },
+    "Banco de Dados SQL": {
+        "Disciplinas": [
+            {
+                "Id": 709,
+                "NomeDisciplina": "Projeto Final – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 708,
+                "NomeDisciplina": "Projeto Final – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 707,
+                "NomeDisciplina": "Criando consultas utilizando a cláusula JOIN",
+                "Unidades": []
+            },
+            {
+                "Id": 706,
+                "NomeDisciplina": "Trabalhando com Stored Procedures",
+                "Unidades": []
+            },
+            {
+                "Id": 705,
+                "NomeDisciplina": "Realizando Consultas no Banco de Dados",
+                "Unidades": []
+            },
+            {
+                "Id": 704,
+                "NomeDisciplina": "Inserindo, atualizando e deletando dados",
+                "Unidades": []
+            },
+            {
+                "Id": 703,
+                "NomeDisciplina": "Atividades de reforço II",
+                "Unidades": []
+            },
+            {
+                "Id": 702,
+                "NomeDisciplina": "Trabalhando com modelos lógico e físico",
+                "Unidades": []
+            },
+            {
+                "Id": 701,
+                "NomeDisciplina": "Aprendendo a normalizar um sistema de dados",
+                "Unidades": []
+            },
+            {
+                "Id": 700,
+                "NomeDisciplina": "Conhecendo a aplicação da Entidade-Associativa",
+                "Unidades": []
+            },
+            {
+                "Id": 699,
+                "NomeDisciplina": "Atividades de Reforço I",
+                "Unidades": []
+            },
+            {
+                "Id": 698,
+                "NomeDisciplina": "Criando relacionamentos",
+                "Unidades": []
+            },
+            {
+                "Id": 697,
+                "NomeDisciplina": "Trabalhando com Modelagem de Dados",
+                "Unidades": []
+            },
+            {
+                "Id": 696,
+                "NomeDisciplina": "Introduzindo à linguagem SQL",
+                "Unidades": []
+            },
+            {
+                "Id": 695,
+                "NomeDisciplina": "Aprendendo sobre Modelos de Banco de Dados: O Modelo Relacional",
+                "Unidades": []
+            },
+            {
+                "Id": 694,
+                "NomeDisciplina": "Iniciando o estudo sobre banco de dados",
+                "Unidades": []
+            }
+        ],
+        "Id": 77
+    },
+    "Como ter um canal de sucesso: YouTube na prática": {
+        "Disciplinas": [
+            {
+                "Id": 462,
+                "NomeDisciplina": "Como conquistar fãs – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 461,
+                "NomeDisciplina": "Como conquistar fãs – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 460,
+                "NomeDisciplina": "Entenda o YouTube – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 459,
+                "NomeDisciplina": "Entenda o YouTube – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 458,
+                "NomeDisciplina": "Outros equipamentos e dicas para escolhê-los, de acordo com o a proposta do canal",
+                "Unidades": []
+            },
+            {
+                "Id": 457,
+                "NomeDisciplina": "Equipamentos para a gravação de vídeos",
+                "Unidades": []
+            },
+            {
+                "Id": 456,
+                "NomeDisciplina": "Pré-produção de um canal para o YouTube – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 455,
+                "NomeDisciplina": "Pré-produção de um canal para o YouTube – Parte I",
+                "Unidades": []
+            }
+        ],
+        "Id": 32
+    },
+    "Corel Draw X5 Modulo I": {
+        "Disciplinas": [
+            {
+                "Id": 908,
+                "NomeDisciplina": "Ferramentas que facilitam o trabalho.",
+                "Unidades": []
+            },
+            {
+                "Id": 907,
+                "NomeDisciplina": "Aprendendo a aplicar efeitos interessantes.",
+                "Unidades": []
+            },
+            {
+                "Id": 906,
+                "NomeDisciplina": "Importando e Exportando imagens.",
+                "Unidades": []
+            },
+            {
+                "Id": 905,
+                "NomeDisciplina": "Preenchimento e efeitos especiais.",
+                "Unidades": []
+            },
+            {
+                "Id": 904,
+                "NomeDisciplina": "Transformando Texto em Curvas.",
+                "Unidades": []
+            },
+            {
+                "Id": 903,
+                "NomeDisciplina": "Trabalhando com Texto e Sombreamento.",
+                "Unidades": []
+            },
+            {
+                "Id": 902,
+                "NomeDisciplina": "Trabalhando com Preenchimentos.",
+                "Unidades": []
+            },
+            {
+                "Id": 901,
+                "NomeDisciplina": "Desenhando com a Ferramenta Mídia Artística.",
+                "Unidades": []
+            },
+            {
+                "Id": 900,
+                "NomeDisciplina": "Criando formas complexas e irregulares.",
+                "Unidades": []
+            },
+            {
+                "Id": 899,
+                "NomeDisciplina": "Desenhando formas irregulares.",
+                "Unidades": []
+            },
+            {
+                "Id": 898,
+                "NomeDisciplina": "Layout de páginas e polígonos.",
+                "Unidades": []
+            },
+            {
+                "Id": 897,
+                "NomeDisciplina": "Introdução ao CorelDRAW.",
+                "Unidades": []
+            }
+        ],
+        "Id": 40
+    },
+    "Departamento Pessoal": {
+        "Disciplinas": [
+            {
+                "Id": 793,
+                "NomeDisciplina": "Anotações na CTPS – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 792,
+                "NomeDisciplina": "Anotações na CTPS – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 791,
+                "NomeDisciplina": "Rescisão do Contrato de Trabalho – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 790,
+                "NomeDisciplina": "Rescisão do Contrato de Trabalho – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 789,
+                "NomeDisciplina": "Rescisão do Contrato de Trabalho – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 788,
+                "NomeDisciplina": "Rescisão do Contrato de Trabalho – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 787,
+                "NomeDisciplina": "Décimo terceiro – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 786,
+                "NomeDisciplina": "Décimo terceiro – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 785,
+                "NomeDisciplina": "Férias – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 784,
+                "NomeDisciplina": "Férias – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 783,
+                "NomeDisciplina": "Férias – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 782,
+                "NomeDisciplina": "Férias – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 781,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte IX",
+                "Unidades": []
+            },
+            {
+                "Id": 780,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte VIII",
+                "Unidades": []
+            },
+            {
+                "Id": 779,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte VII",
+                "Unidades": []
+            },
+            {
+                "Id": 778,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte VI",
+                "Unidades": []
+            },
+            {
+                "Id": 777,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte V",
+                "Unidades": []
+            },
+            {
+                "Id": 776,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 775,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 774,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 773,
+                "NomeDisciplina": "Principais cálculos da folha de pagamento – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 772,
+                "NomeDisciplina": "Motivos de suspensão e interrupção do contrato",
+                "Unidades": []
+            },
+            {
+                "Id": 771,
+                "NomeDisciplina": "Rotinas de Admissão – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 770,
+                "NomeDisciplina": "Rotinas de Admissão – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 769,
+                "NomeDisciplina": "Segurança e saúde – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 768,
+                "NomeDisciplina": "Segurança e saúde – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 767,
+                "NomeDisciplina": "Segurança e saúde – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 766,
+                "NomeDisciplina": "Segurança e saúde – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 765,
+                "NomeDisciplina": "Obrigações legais – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 764,
+                "NomeDisciplina": "Obrigações legais – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 763,
+                "NomeDisciplina": "Conceitos ligados ao contrato de trabalho – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 762,
+                "NomeDisciplina": "Conceitos ligados ao contrato de trabalho – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 761,
+                "NomeDisciplina": "Contrato de trabalho – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 760,
+                "NomeDisciplina": "Contrato de trabalho – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 759,
+                "NomeDisciplina": "Primeiros conceitos – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 758,
+                "NomeDisciplina": "Primeiros conceitos – Parte I",
+                "Unidades": []
+            }
+        ],
+        "Id": 127
+    },
+    "Desenvolvimento de Games": {
+        "Disciplinas": [
+            {
+                "Id": 974,
+                "NomeDisciplina": "Projeto Plataforma - Parte VII",
+                "Unidades": []
+            },
+            {
+                "Id": 973,
+                "NomeDisciplina": "Projeto Plataforma – Parte VI",
+                "Unidades": []
+            },
+            {
+                "Id": 972,
+                "NomeDisciplina": "Projeto Plataforma – Parte V",
+                "Unidades": []
+            },
+            {
+                "Id": 971,
+                "NomeDisciplina": "Projeto Plataforma – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 970,
+                "NomeDisciplina": "Projeto Plataforma - Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 969,
+                "NomeDisciplina": "Projeto Plataforma – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 968,
+                "NomeDisciplina": "Projeto Plataforma - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 967,
+                "NomeDisciplina": "Projeto Arena - Parte IX",
+                "Unidades": []
+            },
+            {
+                "Id": 966,
+                "NomeDisciplina": "Projeto Arena – Parte VIII",
+                "Unidades": []
+            },
+            {
+                "Id": 965,
+                "NomeDisciplina": "Projeto Arena – Parte VII",
+                "Unidades": []
+            },
+            {
+                "Id": 964,
+                "NomeDisciplina": "Projeto Arena - Parte VI",
+                "Unidades": []
+            },
+            {
+                "Id": 963,
+                "NomeDisciplina": "Projeto Arena - Parte V",
+                "Unidades": []
+            },
+            {
+                "Id": 962,
+                "NomeDisciplina": "Projeto Arena – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 961,
+                "NomeDisciplina": "Projeto Arena - Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 960,
+                "NomeDisciplina": "Projeto Arena – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 959,
+                "NomeDisciplina": "Projeto Arena - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 958,
+                "NomeDisciplina": "Projeto do Coelho - Parte V",
+                "Unidades": []
+            },
+            {
+                "Id": 957,
+                "NomeDisciplina": "Projeto do Coelho – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 956,
+                "NomeDisciplina": "Projeto do Coelho - Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 955,
+                "NomeDisciplina": "Projeto do Coelho - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 954,
+                "NomeDisciplina": "Projeto do Coelho - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 953,
+                "NomeDisciplina": "Criando os tiros e os asteroides do game",
+                "Unidades": []
+            },
+            {
+                "Id": 952,
+                "NomeDisciplina": "Criando o primeiro game",
+                "Unidades": []
+            },
+            {
+                "Id": 951,
+                "NomeDisciplina": "Desenvolvimento de games",
+                "Unidades": []
+            }
+        ],
+        "Id": 138
+    },
+    "Excel - Avançado": {
+        "Disciplinas": [
+            {
+                "Id": 515,
+                "NomeDisciplina": "Criando um sistema de login",
+                "Unidades": []
+            },
+            {
+                "Id": 514,
+                "NomeDisciplina": "Trabalhando com formulários",
+                "Unidades": []
+            },
+            {
+                "Id": 513,
+                "NomeDisciplina": "Programando um controle de vendas no Excel com VBA",
+                "Unidades": []
+            },
+            {
+                "Id": 512,
+                "NomeDisciplina": "Macros e o ambiente VBA",
+                "Unidades": []
+            },
+            {
+                "Id": 511,
+                "NomeDisciplina": "Revisão I",
+                "Unidades": []
+            },
+            {
+                "Id": 510,
+                "NomeDisciplina": "Conhecendo o Solver",
+                "Unidades": []
+            },
+            {
+                "Id": 509,
+                "NomeDisciplina": "Testando hipóteses",
+                "Unidades": []
+            },
+            {
+                "Id": 508,
+                "NomeDisciplina": "Auditoria de Fórmulas",
+                "Unidades": []
+            }
+        ],
+        "Id": 106
+    },
+    "Excel - Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 499,
+                "NomeDisciplina": "Revisão – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 498,
+                "NomeDisciplina": "Trabalhando com fórmulas, funções e impressão",
+                "Unidades": []
+            },
+            {
+                "Id": 497,
+                "NomeDisciplina": "Gráficos",
+                "Unidades": []
+            },
+            {
+                "Id": 496,
+                "NomeDisciplina": "Organizando os dados",
+                "Unidades": []
+            },
+            {
+                "Id": 495,
+                "NomeDisciplina": "Reforçando conceitos",
+                "Unidades": []
+            },
+            {
+                "Id": 494,
+                "NomeDisciplina": "Melhorando a visualização dos dados",
+                "Unidades": []
+            },
+            {
+                "Id": 493,
+                "NomeDisciplina": "Trabalhando imagens e seus amigos",
+                "Unidades": []
+            },
+            {
+                "Id": 492,
+                "NomeDisciplina": "Primeiro contato com  o Excel",
+                "Unidades": []
+            }
+        ],
+        "Id": 104
+    },
+    "Excel - Intermediário": {
+        "Disciplinas": [
+            {
+                "Id": 507,
+                "NomeDisciplina": "Revisão II",
+                "Unidades": []
+            },
+            {
+                "Id": 506,
+                "NomeDisciplina": "Trabalhando com matemática financeira no Excel",
+                "Unidades": []
+            },
+            {
+                "Id": 505,
+                "NomeDisciplina": "Funções – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 504,
+                "NomeDisciplina": "Funções – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 503,
+                "NomeDisciplina": "Revisão – I",
+                "Unidades": []
+            },
+            {
+                "Id": 502,
+                "NomeDisciplina": "Utilizando algumas ferramentas avançadas",
+                "Unidades": []
+            },
+            {
+                "Id": 501,
+                "NomeDisciplina": "Analisando dados",
+                "Unidades": []
+            },
+            {
+                "Id": 500,
+                "NomeDisciplina": "Conhecendo recursos interessantes e úteis do Excel",
+                "Unidades": []
+            }
+        ],
+        "Id": 105
+    },
+    "Gestão de Pessoas - HT": {
+        "Disciplinas": [
+            {
+                "Id": 4431,
+                "NomeDisciplina": "AVALIAÇÃO FINAL",
+                "Unidades": []
+            },
+            {
+                "Id": 4430,
+                "NomeDisciplina": "RELACIONAMENTO INTERPESSOAL",
+                "Unidades": []
+            },
+            {
+                "Id": 4429,
+                "NomeDisciplina": "DESENVOLVIMENTO GERENCIAL",
+                "Unidades": []
+            },
+            {
+                "Id": 4428,
+                "NomeDisciplina": "ADMINISTRAÇÃO DE CONFLITOS",
+                "Unidades": []
+            },
+            {
+                "Id": 4427,
+                "NomeDisciplina": "DELEGAÇÃO E ACONSELHAMENTO",
+                "Unidades": []
+            },
+            {
+                "Id": 4426,
+                "NomeDisciplina": "PLANEJAMENTO DE METAS E MOTIVAÇÃO",
+                "Unidades": []
+            },
+            {
+                "Id": 4425,
+                "NomeDisciplina": "GESTÃO ESTRATÉGICA",
+                "Unidades": []
+            },
+            {
+                "Id": 4424,
+                "NomeDisciplina": "INTRODUÇÃO À GESTÃO DE PESSOAS",
+                "Unidades": []
+            }
+        ],
+        "Id": 684
+    },
+    "Internet, Redes Sociais e Aplicativos": {
+        "Disciplinas": [
+            {
+                "Id": 1774,
+                "NomeDisciplina": "Internet of Things",
+                "Unidades": []
+            },
+            {
+                "Id": 1773,
+                "NomeDisciplina": "Nuvem - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1772,
+                "NomeDisciplina": "Nuvem - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 1771,
+                "NomeDisciplina": "Aplicativos - Parte V",
+                "Unidades": []
+            },
+            {
+                "Id": 1770,
+                "NomeDisciplina": "Aplicativos - Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 1769,
+                "NomeDisciplina": "Aplicativos - Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 1768,
+                "NomeDisciplina": "Aplicativos - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1767,
+                "NomeDisciplina": "Aplicativos - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 1766,
+                "NomeDisciplina": "Redes sociais - Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 1765,
+                "NomeDisciplina": "Redes sociais - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1764,
+                "NomeDisciplina": "Redes sociais - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 1763,
+                "NomeDisciplina": "Internet Banking",
+                "Unidades": []
+            },
+            {
+                "Id": 1762,
+                "NomeDisciplina": "Comércio Eletrônico",
+                "Unidades": []
+            },
+            {
+                "Id": 1761,
+                "NomeDisciplina": "Mecanismos de segurança para dispositivos móveis",
+                "Unidades": []
+            },
+            {
+                "Id": 1760,
+                "NomeDisciplina": "Mecanismos de segurança",
+                "Unidades": []
+            },
+            {
+                "Id": 1759,
+                "NomeDisciplina": "Códigos maliciosos",
+                "Unidades": []
+            },
+            {
+                "Id": 1758,
+                "NomeDisciplina": "Aprendendo a se defender de golpes virtuais",
+                "Unidades": []
+            },
+            {
+                "Id": 1757,
+                "NomeDisciplina": "E-mails",
+                "Unidades": []
+            },
+            {
+                "Id": 1756,
+                "NomeDisciplina": "Buscando informações no mundo Virtual",
+                "Unidades": []
+            },
+            {
+                "Id": 1755,
+                "NomeDisciplina": "O mundo Virtual",
+                "Unidades": []
+            }
+        ],
+        "Id": 211
+    },
+    "Kodu Game Lab": {
+        "Disciplinas": [
+            {
+                "Id": 1102,
+                "NomeDisciplina": "Faça mais com o Kodu",
+                "Unidades": []
+            },
+            {
+                "Id": 1101,
+                "NomeDisciplina": "Jogo de corrida - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1100,
+                "NomeDisciplina": "Jogo de corrida – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 1099,
+                "NomeDisciplina": "Programando a pontuação do jogo",
+                "Unidades": []
+            },
+            {
+                "Id": 1098,
+                "NomeDisciplina": "Programando movimentos nos objetos",
+                "Unidades": []
+            },
+            {
+                "Id": 1097,
+                "NomeDisciplina": "Explorando o Kodu – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1096,
+                "NomeDisciplina": "Explorando o Kodu – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 1095,
+                "NomeDisciplina": "Descobrindo o Kodu Game Lab",
+                "Unidades": []
+            }
+        ],
+        "Id": 177
+    },
+    "Lógica de Programação": {
+        "Disciplinas": [
+            {
+                "Id": 641,
+                "NomeDisciplina": "Atividades Interessantes no Small Basic.",
+                "Unidades": []
+            },
+            {
+                "Id": 640,
+                "NomeDisciplina": "Trabalhando com Códigos Avançados.",
+                "Unidades": []
+            },
+            {
+                "Id": 639,
+                "NomeDisciplina": "Criando e Usando Sub-Rotinas.",
+                "Unidades": []
+            },
+            {
+                "Id": 638,
+                "NomeDisciplina": "Desenhando com o Small Basic.",
+                "Unidades": []
+            },
+            {
+                "Id": 637,
+                "NomeDisciplina": "Estruturas de Decisão e Repetição na Prática.",
+                "Unidades": []
+            },
+            {
+                "Id": 636,
+                "NomeDisciplina": "Instalando e Conhecendo o Microsoft Small Basic.",
+                "Unidades": []
+            },
+            {
+                "Id": 635,
+                "NomeDisciplina": "Entendendo a Programação Orientada a Objetos.",
+                "Unidades": []
+            },
+            {
+                "Id": 634,
+                "NomeDisciplina": "Estrutura de Decisão e Repetição.",
+                "Unidades": []
+            },
+            {
+                "Id": 633,
+                "NomeDisciplina": "Operadores Aritméticos, Relacionais e Lógicos.",
+                "Unidades": []
+            },
+            {
+                "Id": 632,
+                "NomeDisciplina": "Tipos de Dados, Constantes e Variáveis.",
+                "Unidades": []
+            },
+            {
+                "Id": 631,
+                "NomeDisciplina": "Testes de Mesa e Diagramas de Blocos.",
+                "Unidades": []
+            },
+            {
+                "Id": 630,
+                "NomeDisciplina": "Introdução à Lógica de Programação.",
+                "Unidades": []
+            }
+        ],
+        "Id": 72
+    },
+    "Minecraft": {
+        "Disciplinas": [
+            {
+                "Id": 1016,
+                "NomeDisciplina": "Desafio: seu próprio Minigame",
+                "Unidades": []
+            },
+            {
+                "Id": 1015,
+                "NomeDisciplina": "Minigame",
+                "Unidades": []
+            },
+            {
+                "Id": 1014,
+                "NomeDisciplina": "Listas",
+                "Unidades": []
+            },
+            {
+                "Id": 1013,
+                "NomeDisciplina": "Funções",
+                "Unidades": []
+            },
+            {
+                "Id": 1012,
+                "NomeDisciplina": "Estruturas de repetição",
+                "Unidades": []
+            },
+            {
+                "Id": 1011,
+                "NomeDisciplina": "Booleanos e Condicionais",
+                "Unidades": []
+            },
+            {
+                "Id": 1010,
+                "NomeDisciplina": "Conversando por Strings",
+                "Unidades": []
+            },
+            {
+                "Id": 1009,
+                "NomeDisciplina": "Construções com operações matemáticas",
+                "Unidades": []
+            },
+            {
+                "Id": 1008,
+                "NomeDisciplina": "Introdução à programação com Python",
+                "Unidades": []
+            },
+            {
+                "Id": 1007,
+                "NomeDisciplina": "Circuitos Lógicos com Redstone - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1006,
+                "NomeDisciplina": "Circuitos Lógicos com Redstone - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 1005,
+                "NomeDisciplina": "Introdução ao Minecraft",
+                "Unidades": []
+            }
+        ],
+        "Id": 140
+    },
+    "Outlook - Avançado": {
+        "Disciplinas": [
+            {
+                "Id": 491,
+                "NomeDisciplina": "Revisando conceitos – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 490,
+                "NomeDisciplina": "Trabalhando com tarefas",
+                "Unidades": []
+            },
+            {
+                "Id": 489,
+                "NomeDisciplina": "Otimizando o trabalho em equipe",
+                "Unidades": []
+            },
+            {
+                "Id": 488,
+                "NomeDisciplina": "Configurando Regras e Ações",
+                "Unidades": []
+            },
+            {
+                "Id": 487,
+                "NomeDisciplina": "Revisando conceitos – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 486,
+                "NomeDisciplina": "Deixando o e-mail mais profissional – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 485,
+                "NomeDisciplina": "Deixando o e-mail mais profissional – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 484,
+                "NomeDisciplina": "Apresentação do Outlook",
+                "Unidades": []
+            }
+        ],
+        "Id": 102
+    },
+    "Outlook - Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 483,
+                "NomeDisciplina": "Revisão I – Relembrando as principais funções do Outlook",
+                "Unidades": []
+            },
+            {
+                "Id": 482,
+                "NomeDisciplina": "Trabalhando com o Outlook de forma profissional",
+                "Unidades": []
+            },
+            {
+                "Id": 481,
+                "NomeDisciplina": "Aprendendo a gerenciar e-mails",
+                "Unidades": []
+            },
+            {
+                "Id": 480,
+                "NomeDisciplina": "Gerenciando Contatos",
+                "Unidades": []
+            },
+            {
+                "Id": 479,
+                "NomeDisciplina": "Enviando, recebendo e respondendo e-mails",
+                "Unidades": []
+            },
+            {
+                "Id": 478,
+                "NomeDisciplina": "Outlook: Uma ferramenta de colaboração que gerencia e-mails",
+                "Unidades": []
+            }
+        ],
+        "Id": 101
+    },
+    "Pixel art": {
+        "Disciplinas": [
+            {
+                "Id": 1028,
+                "NomeDisciplina": "Criando efeitos especiais",
+                "Unidades": []
+            },
+            {
+                "Id": 1027,
+                "NomeDisciplina": "Criando animação de ataque",
+                "Unidades": []
+            },
+            {
+                "Id": 1026,
+                "NomeDisciplina": "Criando animação de movimento",
+                "Unidades": []
+            },
+            {
+                "Id": 1025,
+                "NomeDisciplina": "Desenhando uma personagem em outro formato",
+                "Unidades": []
+            },
+            {
+                "Id": 1024,
+                "NomeDisciplina": "Criando uma personagem",
+                "Unidades": []
+            },
+            {
+                "Id": 1023,
+                "NomeDisciplina": "Criando um cenário para jogos do tipo plataforma",
+                "Unidades": []
+            },
+            {
+                "Id": 1022,
+                "NomeDisciplina": "Criação de um cenário em arte conceitual",
+                "Unidades": []
+            },
+            {
+                "Id": 1021,
+                "NomeDisciplina": "Criando um botão",
+                "Unidades": []
+            },
+            {
+                "Id": 1020,
+                "NomeDisciplina": "Criando uma esmeralda",
+                "Unidades": []
+            },
+            {
+                "Id": 1019,
+                "NomeDisciplina": "Construindo uma espada",
+                "Unidades": []
+            },
+            {
+                "Id": 1018,
+                "NomeDisciplina": "Conhecendo o Pixel art",
+                "Unidades": []
+            },
+            {
+                "Id": 1017,
+                "NomeDisciplina": "Pixel art",
+                "Unidades": []
+            }
+        ],
+        "Id": 141
+    },
+    "PowerPoint - Avançado": {
+        "Disciplinas": [
+            {
+                "Id": 529,
+                "NomeDisciplina": "Boas práticas de como usar o PowerPoint",
+                "Unidades": []
+            },
+            {
+                "Id": 528,
+                "NomeDisciplina": "Revisão Geral",
+                "Unidades": []
+            },
+            {
+                "Id": 527,
+                "NomeDisciplina": "Revisão I",
+                "Unidades": []
+            },
+            {
+                "Id": 526,
+                "NomeDisciplina": "Trabalhando com o Sway – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 525,
+                "NomeDisciplina": "Trabalhando com o Sway – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 524,
+                "NomeDisciplina": "Trabalhando com o Office Mix",
+                "Unidades": []
+            },
+            {
+                "Id": 523,
+                "NomeDisciplina": "Conhecendo mais recursos do PowerPoint",
+                "Unidades": []
+            },
+            {
+                "Id": 522,
+                "NomeDisciplina": "Usando conceitos básicos do PowerPoint e compartilhando uma apresentação",
+                "Unidades": []
+            }
+        ],
+        "Id": 114
+    },
+    "PowerPoint - Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 521,
+                "NomeDisciplina": "Revisão I I",
+                "Unidades": []
+            },
+            {
+                "Id": 520,
+                "NomeDisciplina": "Aprimorando uma apresentação",
+                "Unidades": []
+            },
+            {
+                "Id": 519,
+                "NomeDisciplina": "Utilizando fotos, vídeos e efeitos",
+                "Unidades": []
+            },
+            {
+                "Id": 518,
+                "NomeDisciplina": "Revisão I",
+                "Unidades": []
+            },
+            {
+                "Id": 517,
+                "NomeDisciplina": "Trabalhando com imagens, formas e outros itens em uma apresentação",
+                "Unidades": []
+            },
+            {
+                "Id": 516,
+                "NomeDisciplina": "Conhecendo o PowerPoint e criando a primeira apresentação",
+                "Unidades": []
+            }
+        ],
+        "Id": 112
+    },
+    "Programação C# - Visual Studio - Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 741,
+                "NomeDisciplina": "Projeto Final: Calculadora Parte III.",
+                "Unidades": []
+            },
+            {
+                "Id": 740,
+                "NomeDisciplina": "Projeto Final: Calculadora Parte II.",
+                "Unidades": []
+            },
+            {
+                "Id": 739,
+                "NomeDisciplina": "Projeto Final: Calculadora Parte I.",
+                "Unidades": []
+            },
+            {
+                "Id": 738,
+                "NomeDisciplina": "Revisando Polimorfismo.",
+                "Unidades": []
+            },
+            {
+                "Id": 737,
+                "NomeDisciplina": "Polimorfismo Parte II: Trabalhando com interfaces, classes e métodos abstratos.",
+                "Unidades": []
+            },
+            {
+                "Id": 736,
+                "NomeDisciplina": "Polimorfismo Parte I: Trabalhando com sobrecarga de métodos.",
+                "Unidades": []
+            },
+            {
+                "Id": 735,
+                "NomeDisciplina": "Atividades de reforço II: Preparando um sistema de cadastro de clientes.",
+                "Unidades": []
+            },
+            {
+                "Id": 734,
+                "NomeDisciplina": "Criando um  Aplicativo de Controle de Frota - II.",
+                "Unidades": []
+            },
+            {
+                "Id": 733,
+                "NomeDisciplina": "Criando um aplicativo de Controle de Frota.",
+                "Unidades": []
+            },
+            {
+                "Id": 732,
+                "NomeDisciplina": "Atividades de reforço – Criando um Conversor de Temperaturas.",
+                "Unidades": []
+            },
+            {
+                "Id": 731,
+                "NomeDisciplina": "Programando o projeto Cálculo Média.",
+                "Unidades": []
+            },
+            {
+                "Id": 730,
+                "NomeDisciplina": "Criando o layout do sistema.",
+                "Unidades": []
+            },
+            {
+                "Id": 729,
+                "NomeDisciplina": "Criando o primeiro projeto com Windows Forms – Parte III.",
+                "Unidades": []
+            },
+            {
+                "Id": 728,
+                "NomeDisciplina": "Criando o primeiro projeto com Windows Forms - Parte II.",
+                "Unidades": []
+            },
+            {
+                "Id": 727,
+                "NomeDisciplina": "Criando o primeiro projeto com Windows Forms - Parte I.",
+                "Unidades": []
+            },
+            {
+                "Id": 726,
+                "NomeDisciplina": "Apresentação do Visual Studio.",
+                "Unidades": []
+            }
+        ],
+        "Id": 73
+    },
+    "Programação C# com Visual Studio - Avançado I": {
+        "Disciplinas": [
+            {
+                "Id": 693,
+                "NomeDisciplina": "Controle de Academia: Finalizando o projeto e construindo um relatório",
+                "Unidades": []
+            },
+            {
+                "Id": 692,
+                "NomeDisciplina": "Controle de Academia: Continuando a preparação do fluxo de Caixa",
+                "Unidades": []
+            },
+            {
+                "Id": 691,
+                "NomeDisciplina": "Controle de Academia: Iniciando a preparação do fluxo de caixa.",
+                "Unidades": []
+            },
+            {
+                "Id": 690,
+                "NomeDisciplina": "Controle de Academia: Criando um controle de mensalidades",
+                "Unidades": []
+            },
+            {
+                "Id": 689,
+                "NomeDisciplina": "Controle de Academia: Conhecendo a instrução COUNT(*) e o Casting de variáveis.",
+                "Unidades": []
+            },
+            {
+                "Id": 688,
+                "NomeDisciplina": "Controle de Academia: Preparando a inclusão de matrículas dos alunos",
+                "Unidades": []
+            },
+            {
+                "Id": 687,
+                "NomeDisciplina": "Controle de Academia: Utilizando os dados de um DataGridView para diminuir a interação do aplicativo com o banco de dados.",
+                "Unidades": []
+            },
+            {
+                "Id": 686,
+                "NomeDisciplina": "Controle de academia: Carregando dados de um formulário para outro, através do método construtor",
+                "Unidades": []
+            },
+            {
+                "Id": 685,
+                "NomeDisciplina": "Controle de Academia: Revendo conceitos de Select e conhecendo a propriedade MDI",
+                "Unidades": []
+            },
+            {
+                "Id": 684,
+                "NomeDisciplina": "Controle de Academia: Criando interação com o banco de dados e interligando tabelas",
+                "Unidades": []
+            },
+            {
+                "Id": 683,
+                "NomeDisciplina": "Controle de Academia: Preparando os botões do menu do formulário Modalidades.",
+                "Unidades": []
+            },
+            {
+                "Id": 682,
+                "NomeDisciplina": "Controle de Academia: Reforçando Conceitos",
+                "Unidades": []
+            },
+            {
+                "Id": 681,
+                "NomeDisciplina": "Controle de Academia: Programando a exclusão de registros e criando pesquisas dinâmicas.",
+                "Unidades": []
+            },
+            {
+                "Id": 680,
+                "NomeDisciplina": "Controle de Academia: Realizando UPDATE",
+                "Unidades": []
+            },
+            {
+                "Id": 679,
+                "NomeDisciplina": "Controle de Academia: Buscando e exibindo registros",
+                "Unidades": []
+            },
+            {
+                "Id": 678,
+                "NomeDisciplina": "Controle de Academia: Criando método de inserção com comandos SQL",
+                "Unidades": []
+            },
+            {
+                "Id": 677,
+                "NomeDisciplina": "Controle de Academia: Iniciando o projeto",
+                "Unidades": []
+            }
+        ],
+        "Id": 79
+    },
+    "Programação C# com Visual Studio - Avançado II": {
+        "Disciplinas": [
+            {
+                "Id": 668,
+                "NomeDisciplina": "Controle de Farmácia: Desenvolvendo um pacote completo de instalação – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 667,
+                "NomeDisciplina": "Controle de Farmácia: Desenvolvendo um pacote completo de instalação – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 666,
+                "NomeDisciplina": "Controle de Farmácia: Criando a Tela de Splash e o Instalador do Aplicativo",
+                "Unidades": []
+            },
+            {
+                "Id": 665,
+                "NomeDisciplina": "Controle de Farmácia: Implementando ECF (Emissor de Cupom Fiscal)",
+                "Unidades": []
+            },
+            {
+                "Id": 664,
+                "NomeDisciplina": "Trabalhando com Emissão de Cupom Fiscal",
+                "Unidades": []
+            },
+            {
+                "Id": 663,
+                "NomeDisciplina": "Controle de Farmácia: Trabalhando com Controle de estoque",
+                "Unidades": []
+            },
+            {
+                "Id": 662,
+                "NomeDisciplina": "Controle de Farmácia: Iniciando a preparação das vendas dos produtos",
+                "Unidades": []
+            },
+            {
+                "Id": 661,
+                "NomeDisciplina": "Controle de Farmácia: Trabalhando com Criptografia de Dados – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 660,
+                "NomeDisciplina": "Controle de Farmácia: Trabalhando com Criptografia de dados – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 659,
+                "NomeDisciplina": "Controle de Farmácia: Definindo as permissões dos níveis de acesso na Tela Principal",
+                "Unidades": []
+            },
+            {
+                "Id": 658,
+                "NomeDisciplina": "Controle de Farmácia: Criando um sistema de Login",
+                "Unidades": []
+            },
+            {
+                "Id": 657,
+                "NomeDisciplina": "Controle de Farmácia: Continuando o trabalho com validações",
+                "Unidades": []
+            },
+            {
+                "Id": 656,
+                "NomeDisciplina": "Controle de Farmácia: Reforçando o trabalho com regras de negócio",
+                "Unidades": []
+            },
+            {
+                "Id": 655,
+                "NomeDisciplina": "Controle de Farmácia: Validando o cadastro dos clientes na camada Regra de Negócio",
+                "Unidades": []
+            },
+            {
+                "Id": 654,
+                "NomeDisciplina": "Controle de Farmácia: Aprendendo a desenvolver em camadas",
+                "Unidades": []
+            }
+        ],
+        "Id": 81
+    },
+    "Programação C# com Visual Studio - Intermediário": {
+        "Disciplinas": [
+            {
+                "Id": 653,
+                "NomeDisciplina": "Projeto Final – Elaborando um Sistema de Controle de Pizzaria – Parte IV",
+                "Unidades": []
+            },
+            {
+                "Id": 652,
+                "NomeDisciplina": "Projeto Final – Elaborando um Sistema de Controle de Pizzaria – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 651,
+                "NomeDisciplina": "Projeto Final – Elaborando um Sistema de Controle de Pizzaria – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 650,
+                "NomeDisciplina": "Projeto Final – Elaborando um Sistema de Controle de Pizzaria – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 649,
+                "NomeDisciplina": "Criando um Sistema de Controle de Consultório – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 648,
+                "NomeDisciplina": "Criando um Sistema de Controle para Consultório – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 647,
+                "NomeDisciplina": "Criando um Sistema de Controle para Consultório – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 646,
+                "NomeDisciplina": "Revisão – Criando um Sistema de Cadastro de Alunos – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 645,
+                "NomeDisciplina": "Revisão – Criando um Sistema de Cadastro de Alunos – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 644,
+                "NomeDisciplina": "Trabalhando com banco de dados – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 643,
+                "NomeDisciplina": "Trabalhando com banco de dados – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 642,
+                "NomeDisciplina": "Trabalhando com banco de dados – Parte I",
+                "Unidades": []
+            }
+        ],
+        "Id": 78
+    },
+    "Robótica – Módulo 1": {
+        "Disciplinas": [
+            {
+                "Id": 380,
+                "NomeDisciplina": "Forças Centrífuga e Centrípeta",
+                "Unidades": []
+            },
+            {
+                "Id": 379,
+                "NomeDisciplina": "Elevadores",
+                "Unidades": []
+            },
+            {
+                "Id": 378,
+                "NomeDisciplina": "Leis de Newton",
+                "Unidades": []
+            },
+            {
+                "Id": 377,
+                "NomeDisciplina": "Notas musicais",
+                "Unidades": []
+            },
+            {
+                "Id": 376,
+                "NomeDisciplina": "RFID",
+                "Unidades": []
+            },
+            {
+                "Id": 375,
+                "NomeDisciplina": "Frequência e Período",
+                "Unidades": []
+            },
+            {
+                "Id": 374,
+                "NomeDisciplina": "Aceleração",
+                "Unidades": []
+            },
+            {
+                "Id": 373,
+                "NomeDisciplina": "Velocidade",
+                "Unidades": []
+            },
+            {
+                "Id": 372,
+                "NomeDisciplina": "Sistemas de segurança",
+                "Unidades": []
+            },
+            {
+                "Id": 371,
+                "NomeDisciplina": "Conceitos de Força",
+                "Unidades": []
+            },
+            {
+                "Id": 370,
+                "NomeDisciplina": "Pneumática",
+                "Unidades": []
+            },
+            {
+                "Id": 369,
+                "NomeDisciplina": "Energia solar",
+                "Unidades": []
+            },
+            {
+                "Id": 368,
+                "NomeDisciplina": "Robótica nas construções",
+                "Unidades": []
+            },
+            {
+                "Id": 367,
+                "NomeDisciplina": "Detector de bordas",
+                "Unidades": []
+            },
+            {
+                "Id": 366,
+                "NomeDisciplina": "Metrônomo",
+                "Unidades": []
+            },
+            {
+                "Id": 365,
+                "NomeDisciplina": "Moinho de vento",
+                "Unidades": []
+            },
+            {
+                "Id": 364,
+                "NomeDisciplina": "Servo motor",
+                "Unidades": []
+            },
+            {
+                "Id": 363,
+                "NomeDisciplina": "Desviador de obstáculos",
+                "Unidades": []
+            },
+            {
+                "Id": 362,
+                "NomeDisciplina": "Catapulta",
+                "Unidades": []
+            },
+            {
+                "Id": 361,
+                "NomeDisciplina": "Poste de luz",
+                "Unidades": []
+            },
+            {
+                "Id": 360,
+                "NomeDisciplina": "Semáforo",
+                "Unidades": []
+            },
+            {
+                "Id": 359,
+                "NomeDisciplina": "Engrenagens",
+                "Unidades": []
+            },
+            {
+                "Id": 358,
+                "NomeDisciplina": "Alavanca",
+                "Unidades": []
+            },
+            {
+                "Id": 357,
+                "NomeDisciplina": "Introdução ao kit de robótica",
+                "Unidades": []
+            }
+        ],
+        "Id": 26
+    },
+    "Windows 10 - Avançado": {
+        "Disciplinas": [
+            {
+                "Id": 549,
+                "NomeDisciplina": "Revisão - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 548,
+                "NomeDisciplina": "Antivírus, criptografia e arquivos na rede",
+                "Unidades": []
+            },
+            {
+                "Id": 547,
+                "NomeDisciplina": "Particionando, formatando e realizando backups",
+                "Unidades": []
+            },
+            {
+                "Id": 546,
+                "NomeDisciplina": "Gerenciando contas",
+                "Unidades": []
+            },
+            {
+                "Id": 545,
+                "NomeDisciplina": "Revisão - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 544,
+                "NomeDisciplina": "Conhecendo a Central de ações e a assistente do Windows",
+                "Unidades": []
+            },
+            {
+                "Id": 543,
+                "NomeDisciplina": "Trabalhando com arquivos, atualizações e aplicativos",
+                "Unidades": []
+            },
+            {
+                "Id": 542,
+                "NomeDisciplina": "Principais configurações do Windows",
+                "Unidades": []
+            }
+        ],
+        "Id": 116
+    },
+    "Windows 10 - Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 541,
+                "NomeDisciplina": "Revisão – Parte III",
+                "Unidades": []
+            },
+            {
+                "Id": 540,
+                "NomeDisciplina": "Smartphones: Aplicativos de mídia",
+                "Unidades": []
+            },
+            {
+                "Id": 539,
+                "NomeDisciplina": "Windows: Aplicativos de mídia",
+                "Unidades": []
+            },
+            {
+                "Id": 538,
+                "NomeDisciplina": "Revisão – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 537,
+                "NomeDisciplina": "Personalizando smartphones",
+                "Unidades": []
+            },
+            {
+                "Id": 536,
+                "NomeDisciplina": "Personalizando o Windows",
+                "Unidades": []
+            },
+            {
+                "Id": 535,
+                "NomeDisciplina": "Trabalhando com arquivos em smatphones",
+                "Unidades": []
+            },
+            {
+                "Id": 534,
+                "NomeDisciplina": "Windows: Arquivos na nuvem",
+                "Unidades": []
+            },
+            {
+                "Id": 533,
+                "NomeDisciplina": "Revisão – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 532,
+                "NomeDisciplina": "Windows: Arquivos Locais",
+                "Unidades": []
+            },
+            {
+                "Id": 531,
+                "NomeDisciplina": "Smartphones: Primeiro contato",
+                "Unidades": []
+            },
+            {
+                "Id": 530,
+                "NomeDisciplina": "Windows: Primeiro contato",
+                "Unidades": []
+            }
+        ],
+        "Id": 115
+    },
+    "Word - Avançado": {
+        "Disciplinas": [
+            {
+                "Id": 477,
+                "NomeDisciplina": "Revisão – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 476,
+                "NomeDisciplina": "Trabalhando com Mala direta",
+                "Unidades": []
+            },
+            {
+                "Id": 475,
+                "NomeDisciplina": "Desenvolvendo trabalhos complexos – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 474,
+                "NomeDisciplina": "Desenvolvendo trabalhos complexos – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 473,
+                "NomeDisciplina": "Revisão – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 472,
+                "NomeDisciplina": "Elaborando documentos privados e compartilhados",
+                "Unidades": []
+            },
+            {
+                "Id": 471,
+                "NomeDisciplina": "Formatando o documento e conhecendo algumas ferramentas – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 470,
+                "NomeDisciplina": "Formatando o documento e conhecendo algumas ferramentas – Parte I",
+                "Unidades": []
+            }
+        ],
+        "Id": 110
+    },
+    "Word - Essencial": {
+        "Disciplinas": [
+            {
+                "Id": 469,
+                "NomeDisciplina": "Revisão - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 468,
+                "NomeDisciplina": "Conhecendo mais opções do Word",
+                "Unidades": []
+            },
+            {
+                "Id": 467,
+                "NomeDisciplina": "Trabalhando com imagens",
+                "Unidades": []
+            },
+            {
+                "Id": 466,
+                "NomeDisciplina": "Revisão - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 465,
+                "NomeDisciplina": "Editando um documento",
+                "Unidades": []
+            },
+            {
+                "Id": 464,
+                "NomeDisciplina": "Conhecendo o Word",
+                "Unidades": []
+            }
+        ],
+        "Id": 108
+    },
+    "Assistente de Recursos Humanos": {
+        "Id": 1,
+        "Disciplinas": [
+            {
+                "Id": 16,
+                "NomeDisciplina": "Revisão IV",
+                "Unidades": []
+            },
+            {
+                "Id": 15,
+                "NomeDisciplina": "Marketing pessoal – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 14,
+                "NomeDisciplina": "Etiqueta em situações profissionais e Marketing pessoal – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 13,
+                "NomeDisciplina": "Postura e atendimento",
+                "Unidades": []
+            },
+            {
+                "Id": 12,
+                "NomeDisciplina": "Revisão III",
+                "Unidades": []
+            },
+            {
+                "Id": 11,
+                "NomeDisciplina": "Rescisões Contratuais",
+                "Unidades": []
+            },
+            {
+                "Id": 10,
+                "NomeDisciplina": "Treinamento e desenvolvimento",
+                "Unidades": []
+            },
+            {
+                "Id": 9,
+                "NomeDisciplina": "Entrevista e integração",
+                "Unidades": []
+            },
+            {
+                "Id": 8,
+                "NomeDisciplina": "Revisão - Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 7,
+                "NomeDisciplina": "Processo de admissão – Seleção dos candidatos",
+                "Unidades": []
+            },
+            {
+                "Id": 6,
+                "NomeDisciplina": "Processo de admissão - Recrutamento e seleção",
+                "Unidades": []
+            },
+            {
+                "Id": 5,
+                "NomeDisciplina": "Revisão - Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 4,
+                "NomeDisciplina": "Cargos e salários – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 3,
+                "NomeDisciplina": "Cargos e salários – Parte I",
+                "Unidades": []
+            },
+            {
+                "Id": 2,
+                "NomeDisciplina": "Introdução: Atribuições do RH – Parte II",
+                "Unidades": []
+            },
+            {
+                "Id": 1,
+                "NomeDisciplina": "Introdução: Atribuições do RH – Parte I",
+                "Unidades": []
+            }
+        ]
+    }
+}
