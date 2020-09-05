@@ -129,4 +129,33 @@
 		});
 	}
 
+	chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+		if (request.hasOwnProperty("messageType")) {
+			if(request.messageType === "post-registro") {
+				registraAtividade(request.registroBody);
+			}
+		}
+	});
+
+	function registraAtividade(body) {
+		const url = "https://enter.azure-api.net/api/Registro/AddRegistro";
+
+		const options = {
+			method: 'POST',
+			body: JSON.stringify(body),
+			headers: {
+				'Content-Type': 'application/json'
+			}
+		};
+		
+		fetch(url, options)
+		.then((response) => response.json())
+		.then((response) => {
+			console.log(response);
+		}).catch((err) => {
+			console.log(err);
+			alert("Erro ao liberar aula");
+		});
+	}
+
 })();

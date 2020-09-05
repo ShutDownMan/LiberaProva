@@ -79,6 +79,7 @@ function populateTable() {
 				let idDisciplinaAtual = String(idDisciplina)
 				aTag.addEventListener("click", () => {
 					liberarProva(idDisciplinaAtual)
+					setTimeout(() => {window.location.reload(false);}, 5000);
 				}, false);
 
 				statusTd.appendChild(aTag)
@@ -164,8 +165,6 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		$(".container-carregamento").fadeIn();
 	});
 
-	const url = "https://enter.azure-api.net/api/Registro/AddRegistro";
-
 	body = {
 		Token: '90b0b515759f369e41fa67f2e92a43e8',
 		IdTrilha: idTrilha,
@@ -179,21 +178,5 @@ function registraAtividade(idTrilha, idCurso, idDisciplina, idUnidade, idAtivida
 		IdRegistroOrigem: 2
 	}
 
-	const options = {
-		method: 'POST',
-		body: JSON.stringify(body),
-		headers: {
-			'Content-Type': 'application/json'
-		}
-	};
-	
-	fetch(url, options)
-	.then((response) => response.json())
-	.then((response) => {
-		console.log(response);
-		setTimeout(() => {window.location.reload(false);}, 1000);
-	}).catch((err) => {
-		console.log(err);
-		alert("Erro ao liberar aula");
-	});
+	chrome.runtime.sendMessage({messageType: "post-registro", registroBody: body}, () => {});
 }
